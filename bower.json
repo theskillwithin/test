@@ -1,0 +1,27 @@
+{
+  "name": "Heartcup",
+  "description": "Heartcup",
+  "main": "gulp.config.js",
+  "authors": [
+    "Brandastic"
+  ],
+  "license": "",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2",
+    "gsap": "^1.18.2",
+    "smooth-scroll": "https://github.com/cferdinandi/smooth-scroll.git#^9.1.1",
+    "lazyloadxt": "^1.0.5",
+    "normalize-scss": "normalize.scss#^4.0.3",
+    "normalize-css": "^4.1.1"
+  }
+}
